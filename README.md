@@ -5,4 +5,4 @@ The accuracy and application of the dataset could refer to our research: [Wang e
 
 If you **download our dataset**, please let me konw by e-mail: Dr. Wenfang Lu, Fuzhou University (:e-mail:luwf@fzu.edu.cn)
 
-![scs](https://github.com/Yotill/SCS_CHL_2011-2019/blob/main/readme_pic1.png)
+![scs](https://github.com/Yotill/SCS_CHL_2005-2019/blob/main/readme_pic1.png)
